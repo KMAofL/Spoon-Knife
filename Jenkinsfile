@@ -1,4 +1,4 @@
 node {
    echo 'Hello Jenkins World!'
-   echo 'Will polling catch this?'
+   echo 'I bet this wont work either.'
 }
